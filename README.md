@@ -1,6 +1,10 @@
 # VietGia Medical ERP
 
 <p align="center">
+  <a href="https://github.com/alphatech-vn"><img src="https://img.shields.io/badge/Back%20to-AlphaTech%20Hub-1b1713?style=for-the-badge&logo=github&logoColor=white" alt="Back to AlphaTech Hub"></a>
+</p>
+
+<p align="center">
   <a href="https://viet-gia-medical-guideline.vercel.app/"><img src="assets/screenshots/01-guideline-home.png" alt="VietGia Medical ERP guideline" width="100%"></a>
 </p>
 
