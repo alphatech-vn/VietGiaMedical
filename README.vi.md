@@ -269,3 +269,8 @@ Repo này chỉ nên chứa:
 - Tóm Tắt Quyền Riêng Tư.
 - Lộ Trình.
 - Hướng Dẫn Hỗ Trợ Và Bảo Mật.
+
+
+<p align="center">
+  <a href="https://github.com/alphatech-vn"><img src="https://img.shields.io/badge/Back%20to-AlphaTech%20Hub-1b1713?style=for-the-badge&logo=github&logoColor=white" alt="Back to AlphaTech Hub"></a>
+</p>
